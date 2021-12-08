@@ -1,0 +1,7 @@
+Clienti care au comandat de mai mult de 2ori si valoarea comenzii este mai mare decat: 12
+Client ID 2 nr comenzi: 3
+Client ID 2 nr comenzi: 3
+Client ID 2 nr comenzi: 3
+Client ID 3 nr comenzi: 3
+Client ID 3 nr comenzi: 3
+Client ID 3 nr comenzi: 3

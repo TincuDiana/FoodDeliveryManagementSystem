@@ -1,0 +1,4 @@
+Produsele comandate in data  Mon May 31 23:50:10 EEST 2021 sunt:
+Produsul: *Victory Garden Chicken-Vegetable Soup* a fost comandat de 2 ori
+Produsul: *Bourbon-Orange* a fost comandat de 3 ori
+Produsul: *Vanilla-Scented* a fost comandat de 1 ori

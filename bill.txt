@@ -1,0 +1,7 @@
+Data si ora comenzii nr 1 sunt Tue Jun 01 23:31:08 EEST 2021
+ 
+Produsele comandate sunt:
+Nume: Blackberry Syrup  - Pret: 10 
+Nume: Lemon-Anise Flan  - Pret: 33 
+Nume: Roasted Root Vegetables with Apple Juice  - Pret: 23 
+Total: 66
